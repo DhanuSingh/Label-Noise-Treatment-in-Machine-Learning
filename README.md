@@ -1,1 +1,2 @@
 # Label-Noise-Treatment-in-Machine-Learning
+The project implements methods like rank pruning, unbiased estimator and  importance reweighting, to address label noise. I implemented the unbiased estimator method. Under this method the loss function is reweighted on the basis of label noise such that the expected risk over the noisy data is same as that over the clean data. A code to implement this with logistic regression and CNN has been uploaded.
